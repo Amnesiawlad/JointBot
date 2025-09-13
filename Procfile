@@ -1,1 +1,1 @@
-worker: python 2.py
+worker: python3 2.py
